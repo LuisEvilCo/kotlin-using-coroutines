@@ -27,10 +27,11 @@ fun main(args: Array<String>)  {
     for (i in 1..1_500_000) {
         launch {
             result.getAndIncrement()
-            delay(1000)
+            //delay(1000)
         }
     }
 
+    Thread.sleep(1000) // for correct result sleep for 1 sec and remove delay
 
     println(result.get())
 }
