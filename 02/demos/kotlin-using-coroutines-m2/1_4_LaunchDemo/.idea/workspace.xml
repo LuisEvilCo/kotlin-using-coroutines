@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c37699f1-2c1c-4e42-9d5a-ed29a5009e75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1_0_Summation/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_0_Summation/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_0_Summation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_0_Summation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_0_Summation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_2_KotlinSum/src/main/kotlin/Program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../08/demos/kotlin-using-coroutines-m8/7_1_SimpleSelect/7_1_SimpleSelect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../08/demos/kotlin-using-coroutines-m8/7_2_SelectOnClose/7_2_SelectOnClose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../08/demos/kotlin-using-coroutines-m8/7_3_SelectSideChannel/7_3_SelectSideChannel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_03_UIWithCancel/9_03_UIWithCancel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePi/9_04_CalculatePi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePi/9_04_CalculatePi.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePi/9_04_CalculatePi_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePi/9_04_CalculatePi_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePiOffer/9_04_CalculatePi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePiOffer/9_04_CalculatePi.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePiOffer/9_04_CalculatePi_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_04_CalculatePiOffer/9_04_CalculatePi_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../10/demos/kotlin-using-coroutines-m10/9_xx_GitListRepos/9_xx_GitListRepos.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="GAHvwrQD" />
+  </component>
+  <component name="ProjectId" id="1VYPiDD3KyjO5Ti7V0lEjLDZ3ab" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ForkJoin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProgramKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ProgramKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c37699f1-2c1c-4e42-9d5a-ed29a5009e75" name="Default Changelist" comment="" />
+      <created>1577427179539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577427179539</updated>
+      <workItem from="1577427180788" duration="292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="725" y="294" key="CommitChangelistDialog2" timestamp="1577427626673">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="725" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1577427626673" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1577427479982">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1266" height="717" key="javadoc.popup.new" timestamp="1577427531090">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1266" height="717" key="javadoc.popup.new/0.0.2560.1400@0.0.2560.1400" timestamp="1577427531090" />
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1577427479982" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1577427482356">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1577427482356" />
+  </component>
+</project>
